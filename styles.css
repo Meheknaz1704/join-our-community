@@ -1,0 +1,103 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: sans-serif;
+}
+
+
+.join{
+    height: 50vh;
+    padding-left: 142px;
+    padding-top: 109px;
+}
+h1{
+    font-family: sans-serif;
+    color: #3b9e9c;
+    /* padding-top: 53px; */
+    padding-bottom: 30px;
+    font-size: 32px;
+
+}
+.free{
+    color: #cbde69;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: 'Fraunces', serif;
+    font-family: 'Karla', sans-serif;
+}
+.box2{
+    color: #bfc3ce;
+    padding-top: 18px;
+    font-family: sans-serif;
+    line-height: 26px;
+    
+}
+.whole{
+    display: flex;
+}
+.month{
+    background-color: #2bb3b1;
+    width: 50vw;
+    height: 50vh;
+    padding-left: 142px;
+    padding-top: 65px;
+}
+.m1{
+    color: white;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.m2{
+    font-size: 25px;
+    color: white;
+    margin-top: 10px;
+}
+ .per { 
+    color: #5fcfd0;
+    padding-left: 8px;
+    font-size: 15px;
+
+    
+} 
+
+.access{
+    color:#b8eef4 ;
+    padding-top: 16px;
+    padding-bottom: 35px;
+}
+button{
+    background-color: #bee031;
+    width: 235px;
+    height: 40px;
+    border: none;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+}
+button:hover{
+    background-color: #9dbe1a;
+    
+}
+.why{
+    background-color: #48bfbc;
+    width: 50vw ;
+    height: 50vh;
+    padding-left: 142px;
+    padding-top: 65px;
+    
+
+}
+h5{
+    color: white;
+    font-size: 23px;
+}
+.box5{
+    padding-top: 20px;
+    color: hsl(201, 16%, 83%);
+    font-size: 17px;
+    line-height: 30px;
+}
